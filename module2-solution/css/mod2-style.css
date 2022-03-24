@@ -1,9 +1,47 @@
-body {
-	
+h1 {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	font-family: arial, helvetica, sans-serif;
 }
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
 }
-	
+h2 {
+	border: 3px solid black;
+	text-align: center;
+	font-family: arial, helvetica, sans-serif;
+	float: right;
+	width: 30%;
+	clear: left;
+	font-size: 120%
+}
+#box1 {
+	background-color: darkgray;
+	border: 3px solid black;
+	width: 30%;
+	margin-bottom: 30px;
+	}
+#box2 {
+	background-color: darksalmon;
+	color: black;
+}
+#box3 {
+	background-color: darkred;
+	color: white;
+}
+#box4 {
+	background-color: darkkhaki;
+	color: black;
+}
+@media (min-width: 992px) {
+
+}
+@media (max-width: 767px) {
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}

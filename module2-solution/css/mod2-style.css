@@ -15,11 +15,12 @@ h2 {
 	font-family: arial, helvetica, sans-serif;
 	float: right;
 	width: 30%;
-	clear: left;
 	font-size: 120%;
 	position: relative;
-	top: -32px;
+	top: -37px;
 	left: 12px;
+	padding-bottom: 5px;
+	margin-bottom: -40px;
 }
 #box1, #box2, #box3 {
 	background-color: darkgray;
@@ -30,7 +31,7 @@ h2 {
 	margin-left: 20px;
 	position: relative;
 	float: left;
-	padding-top: 30px;
+	padding-top: 35px;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom: 20px;
